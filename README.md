@@ -1,5 +1,7 @@
 Task_Density_Indicator
+
 HoT Skill - Token Density Indicator
+
 Overview
 This project implements a Token Density Indicator to analyze lexical tokens generated during compilation. The objective is to derive a meaningful metric from raw token data to evaluate code complexity and readability.
 
