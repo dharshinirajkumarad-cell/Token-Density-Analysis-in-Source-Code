@@ -49,8 +49,10 @@ Real-World Relevance
 Token Density can be used in compiler optimization and static code analysis tools to identify complex or poorly structured code. It helps developers improve readability and maintainability.
 
 Files Included
+
 RA2311026050253_Dharshini R_HoT.c
 RA2311026050253_Dharshini R_Output.png
 RA2311026050253_Dharshini RExplanation.pdf
+
 Conclusion
 This project demonstrates how raw lexical data can be transformed into meaningful insights using feature engineering and conditional logic. The Token Density metric provides a simple yet effective way to analyze code complexity.
